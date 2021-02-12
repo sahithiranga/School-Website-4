@@ -1,0 +1,38 @@
+#AboutSchool h2{
+    color:blueviolet;
+    font-family: fantasy;
+}
+#AboutSchool p{
+    color:darkmagenta;
+    font-family:cursive;
+    font-size: 17;
+}
+#AboutDistrict h2{
+    color:darkorchid;
+    font-family:inherit;
+}
+#AboutDistrict p{
+    color:darkviolet;
+    font-family:monospace;
+    font-size: 17;
+}
+#ClassesActivities h2{
+    color:darkred;
+    font-family:sans-serif;
+}
+#ClassesActivities p{
+    color:darkcyan;
+    font-family:serif;
+    font-size: 17;
+}
+#contactus h2{
+    color:darkgoldenrod;
+    font-family:sans-serif;
+}
+#contactus p{
+    color:deeppink;
+    font-family:serif;
+    font-size: 17;
+}
+
+
